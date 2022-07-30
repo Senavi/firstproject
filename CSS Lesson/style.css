@@ -1,0 +1,17 @@
+.block>p {
+
+color: red;
+
+}
+
+
+
+.block_two span.bigred{
+
+    color: blue;
+}
+
+.block_two>p {
+
+    color: red;
+}
